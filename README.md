@@ -1,4 +1,4 @@
-### 👋🏼 ¡Hola! Soy Diego Berrio, un apasionado desarrollador frontend.
+###¡👋🏼 Hola! Soy Diego Berrio, un apasionado desarrollador frontend.
 
 🌟 **¡Bienvenido a mi perfil de GitHub!** Aquí encontrarás una variedad de proyectos que iré desarrollando con el tiempo, donde **intentaré** reflejar mi amor por la **creación de experiencias móviles increíbles y funcionales**.
 

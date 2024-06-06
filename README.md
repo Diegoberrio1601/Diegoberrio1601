@@ -2,7 +2,7 @@
 
 🌟 **¡Bienvenido a mi perfil de GitHub!** Aquí encontrarás una variedad de proyectos que iré desarrollando con el tiempo, donde **intentaré** reflejar mi amor por la **creación de experiencias móviles increíbles y funcionales**.
 
-🔭 Actualmente me encuentro **explorando** las últimas **tecnologías** y tendencias en el **desarrollo móviló** para mejorar mis habilidades y crear proyectos aún más emocionantes.
+🔭 Actualmente me encuentro **explorando** las últimas **tecnologías** y tendencias en el **desarrollo móvil** para mejorar mis habilidades y crear proyectos aún más emocionantes.
 
 🚀 Estoy **abierto a colaboraciones** en proyectos interesantes, así que **no dudes en contactarme** si tienes una idea genial en mente.
 

@@ -10,8 +10,7 @@
 
 📫 **¿Cómo contactarme?**  
 - [LinkedIn](https://www.linkedin.com/in/diegoberrio1601/)  
-- [Instagram](https://www.instagram.com/diegoberrio1601)  
-- [WhatsApp](https://wa.me/573003118411?text=Hola%2C%20estoy%20interesado%20en%20contactarte%20para%20más%20información.)  
+- [Instagram](https://www.instagram.com/diegoberrio1601)    
 - diegoberrio1601@gmail.com
 
 😄 **Pronombres:** Él/Él

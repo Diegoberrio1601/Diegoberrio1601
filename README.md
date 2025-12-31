@@ -19,7 +19,14 @@ Soy **Diego Berrio**, Ingeniero Frontend y creador de **The Ribeor**. Mi trabajo
 
 ---
 
-### 🛠️ Core Stack & Expertise
+### 🛠️ Tech Stack & Expertise
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
 
 - **Frontend:** Next.js 15, React 19, TypeScript, Tailwind CSS.
 - **Mobile:** React Native & Expo (Mobile Craftsmanship).
@@ -30,11 +37,11 @@ Soy **Diego Berrio**, Ingeniero Frontend y creador de **The Ribeor**. Mi trabajo
 
 ### 📊 Actividad en The Ribeor
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Ribeor&layout=compact&theme=transparent&title_color=3b82f6&text_color=9ca3af&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Ribeor&layout=compact&theme=transparent&title_color=3b82f6&text_color=9ca3af&hide_border=true&count_private=true" alt="Most Used Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-Ribeor&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af" alt="The Ribeor GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Ribeor&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&count_private=true" alt="The Ribeor GitHub Stats" />
 </p>
 
 ---

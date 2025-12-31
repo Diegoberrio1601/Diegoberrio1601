@@ -35,17 +35,6 @@ Soy **Diego Berrio**, Ingeniero Frontend y creador de **The Ribeor**. Mi trabajo
 
 ---
 
-### 📊 Actividad en The Ribeor
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Ribeor&layout=compact&theme=transparent&title_color=3b82f6&text_color=9ca3af&hide_border=true&count_private=true" alt="Most Used Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-Ribeor&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&count_private=true" alt="The Ribeor GitHub Stats" />
-</p>
-
----
-
 ### 📫 Conectemos
 *Disponible para colaboraciones que busquen elevar el estándar visual y técnico de la web.*
 

@@ -39,7 +39,7 @@ Mi proceso es **Design-Driven**: creo firmemente en el **Mobile & Web Craftsmans
 `Next.js 15` • `React 19` • `TypeScript` • `Tailwind CSS` • `Figma Inspired UI`
 
 <p align="left">
-  <a href="https://gridforge-builder.netlify.app" target="_blank">
+  <a href="https://gridforge-builder.netlify.app">
     <img src="https://img.shields.io/badge/Lanzar_GridForge-007AFF?style=for-the-badge&logo=external-link&logoColor=white" />
   </a>
 </p>

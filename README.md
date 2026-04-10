@@ -13,16 +13,16 @@
 
 > *"Code as an Art Form. Engineering as a Craft."*
 
-Senior Software Engineer with **7+ years** building scalable web and mobile products — from government platforms to funded startups to my own SaaS. I specialize in high-fidelity UI systems where design precision meets solid architecture. Currently shipping AI-powered products under **[Ribeor](https://ribeor.com)**, my own digital product studio based in Barranquilla, Colombia.
+Senior Software Engineer with **7+ years** building complete digital products — government platforms, startups, and my own products. I work across the full cycle: architecture, development, API integration, and delivery. Right now I'm building AI-powered products through **[Ribeor](https://ribeor.com)**, my studio based in Barranquilla, Colombia.
 
 ---
 
-## What I Do
+## What I do
 
-- **Product Engineering** — Full lifecycle ownership: architecture → delivery → support
-- **Applied AI** — Integrating Claude API and AI workflows into real products for smarter UX and automation
-- **Design-to-Code** — Pixel-perfect Figma-to-production with zero friction
-- **Cross-Platform** — One engineering mindset across web (Next.js) and mobile (React Native + Expo)
+- **Full Cycle Software Engineering** — Architecture, development, and delivery. Backend and frontend, whatever the product needs
+- **Applied AI** — Integrating Claude API and AI workflows to automate processes and build smarter user experiences
+- **Systems Integration** — Clean connections between frontend, backend, and third-party APIs
+- **Product Ownership** — Real experience launching and maintaining products from scratch
 
 ---
 
@@ -33,40 +33,39 @@ Senior Software Engineer with **7+ years** building scalable web and mobile prod
 | **Frontend / Web** | Next.js, React, TypeScript, Tailwind CSS |
 | **Mobile** | React Native, Expo, Reanimated |
 | **AI & Integrations** | Anthropic Claude API, REST APIs |
-| **Design Systems** | Figma, Framer Motion |
+| **Design** | Figma, Framer Motion |
 | **Tooling** | Git, Vercel, ESLint, Prettier |
 
 ---
 
 ## Ribeor — My Studio
 
-**[Ribeor](https://ribeor.com)** is where I turn complex business logic into premium digital products. I merge senior engineering with AI-driven precision to build systems that scale and feel right.
+**[Ribeor](https://ribeor.com)** is where I turn ideas into real digital products. I combine solid engineering with AI workflows to build things that actually scale and work well.
 
-**Active products:**
+**Active product:**
 - **[GridForge](https://gridforge-builder.netlify.app)** — Professional drag & drop CSS Grid layout engine. Draw, drag, and export production-ready grid code.
-- **PDF.LOCAL** — Privacy-first local PDF tooling. No server, no upload, no compromise.
 
 ---
 
 ## Career Highlights
 
 - 7+ years across startups, agencies, and government platforms (including **Bogotá Trabaja**)
-- Led frontend teams as a tech lead in mobile and web simultaneously
-- Built and shipped products in fintech, food delivery, construction, and civic tech
-- Founder experience: product strategy, engineering, and design under one roof
+- Technical leadership on web and mobile projects at the same time
+- Products shipped in fintech, food delivery, construction, and civic tech
+- Founder experience: product, engineering, and operations under one roof
 
 ---
 
-## Beyond the Code
+## Beyond the code
 
-- **Moto rides** — Engineering is best appreciated in motion 🏍️
-- **Deep Techno & Melodic House** — The only valid background for deep work 🎧
-- **Architecture & burgers** — Always searching for both in perfect form 🍔
+- **Motorcycles** — Engineering makes more sense when you're moving 🏍️
+- **Deep Techno & Melodic House** — The only valid background music for deep work 🎧
+- **Architecture and burgers** — Always looking for the perfect version of both 🍔
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=diegoberrio1601&color=000000&style=flat-square&label=profile+views" />
-  
+
   **Open to selective collaborations and senior roles · [ribeor.com](https://ribeor.com)**
 </div>
